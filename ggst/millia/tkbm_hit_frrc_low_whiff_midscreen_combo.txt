@@ -1,0 +1,38 @@
+configs/ggst.json
+
+### building_blocks/tkbm_frrc_low ###
+# TKBM
+[2] W2
+[3] W2
+[6] W2
+[9] W2
+[P]
+[6] W5
+]P[ W9
+
+# FRRC 2S
+[Dash] W2
+[RC]
+]Dash[ W1
+]RC[+[3] W6
+[S+3] W25 ]S+3[
+
+# c.S pickup if BM hit
+[S] W2 ]S[
+### building_blocks/tkbm_frrc_low ###
+
+
+[H] W6 ]H[ ]2[ W8
+[2] W2
+[1] W2
+[4] W2
+[K]
+[6] W2 ]K[ W15 [S] W5 ]S[ W3 ]6[ W30
+[K] W10 ]K[
+[6] W4 [H] W2 ]H[ W3 ]6[ W43
+[2] W3 [1] W2 [K] [4] W2 ]K[ W3
+[P] W80 ]P[
+[2] W1
+[1] W2
+[4] W1 [K] W2 ]K[ W4
+[H] W3 ]H+4[ 

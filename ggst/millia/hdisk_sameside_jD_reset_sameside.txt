@@ -1,0 +1,16 @@
+configs/ggst.json
+
+### building_blocks/hdisk_sameside_jD ###
+[6+K] W43 ]K+6[
+[2] W2 [K] W10 ]K[
+[D] W10 ]D[
+[3] W2 [6] W2 [H] W2 ]6+H[ W60
+[4]+[K]+[S] W12 ]4[+]K[+]S[
+[D] W19 ]D[
+[Dash] W13 ]Dash[
+[K] W24 ]K[
+[Dash] W1 ]Dash[
+[S] W31 ]S[
+### building_blocks/hdisk_sameside_jD ###
+
+[8] W5 ]8[ [Dash] W4 ]Dash[ [2] W2 [3] W2 [6] W2 [K] ]K+6[

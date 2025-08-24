@@ -1,0 +1,5 @@
+configs/ggst.json
+[2] W2 [K] W6 ]K[
+[D] W16 ]D[
+[2] W3 [3] W2 [6] W2 [6] W2 [H] W2 ]6[+]H[ W49
+[4] [P] W1 [K] W13 ]P+K[ [2] W2 [K] W26 ]2+K[ [S] W32 ]S[ 
