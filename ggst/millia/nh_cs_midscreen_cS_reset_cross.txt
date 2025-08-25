@@ -1,0 +1,27 @@
+configs/ggst.json
+
+### building_blocks/cS_mSDisk_loop ###
+[S] W20 ]S[
+[2] W2 [H] W23 ]2+H[
+[2] W2 [1] W2 [4] W5 [K] W2 [6]+]K[ W4 [S] W35 ]6+S[
+[Dash] W8 ]Dash[
+[S] W27 ]S[
+### building_blocks/cS_mSDisk_loop ###
+
+W6
+
+[9] W7 ]9[
+[D] W10 ]D[
+[9] W9 ]9[
+[D] W5 ]D[
+
+# set to 5 for cross, 1 for same side
+W5
+
+[Dash] W13 ]Dash[
+[2] W2 [3] W3 [6] W4 [K] W3 ]6+K[
+
+# set to 32 for cross, 36 for sameside
+W32
+
+[S] W2 ]S[

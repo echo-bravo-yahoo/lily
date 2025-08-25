@@ -1,0 +1,9 @@
+configs/ggst.json
+
+### building_blocks/cS_mSDisk_loop ###
+[S] W20 ]S[
+[2] W2 [H] W23 ]2+H[
+[2] W2 [1] W2 [4] W5 [K] W2 [6]+]K[ W4 [S] W35 ]6+S[
+[Dash] W8 ]Dash[
+[S] W27 ]S[
+### building_blocks/cS_mSDisk_loop ###
